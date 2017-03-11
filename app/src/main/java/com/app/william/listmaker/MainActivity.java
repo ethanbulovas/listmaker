@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         whatUp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                helloWorld.setText("Not much");
+                helloWorld.setText("Not ewhtrj");
             }
         });
     }
