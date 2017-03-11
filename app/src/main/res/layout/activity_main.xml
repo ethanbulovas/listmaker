@@ -11,7 +11,14 @@
     tools:context="com.app.william.listmaker.MainActivity">
 
     <TextView
+        android:id="@+id/helloWorld"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+    <Button
+        android:id="@+id/whatupbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What up"
+        android:layout_centerInParent="true"/>
 </RelativeLayout>
